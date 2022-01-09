@@ -58,6 +58,69 @@
   background-color: #5865f2 !important;
 }
 
+/*Buttons*/
+.btn-primary {
+  background-color: #5865f2 !important;
+  border-color: #5865f2 !important;
+}
+
+.btn-success {
+  background-color: #57f287 !important;
+  border-color: #57f287 !important;
+}
+
+.btn-danger {
+  background-color: #ed4245 !important;
+  border-color: #ed4245 !important;
+}
+
+.btn-warning {
+  background-color: #fe955c !important;
+  border-color: #fe955c !important;
+}
+/*Buttons End*/
+
+
+.pagination > .active > a, .pagination > .active > a:focus, .pagination > .active > a:hover, .pagination > .active > span, .pagination > .active > span:focus, .pagination > .active > span:hover {
+  background-color: #5865f2 !important;
+  border-color: #5865f2 !important;
+}
+
+.main-footer {
+  background-color: #181818 !important;
+}
+
+.box-footer {
+  border-top-color: rgb(51, 55, 57) !important;
+  background-color: rgb(24 24 24) !important;
+}
+
+.table-striped > tbody > tr:nth-of-type(2n + 1) {
+  background-color: #1c1c1c;
+}
+
+.nav-tabs-custom {
+  background-color: #161616 !important;
+}
+
+.nav-tabs-custom > .nav-tabs > li.active {
+  border-top-color: #5865f2 !important;
+}
+
+.nav-tabs-custom > .tab-content {
+  background-color: #181818 !important;
+}
+
+.nav-tabs-custom > .nav-tabs > li.active > a, .nav-tabs-custom > .nav-tabs > li.active:hover > a {
+  background-color: #181818 !important;
+}
+
+.form-control {
+  border-color: rgb(20 20 20) !important;
+  background-color: rgb(22 22 22) !important;
+}
+
+
 
 /* Pi-hole: A black hole for Internet advertisements
 *  (c) 2021 Pi-hole, LLC (https://pi-hole.net)
