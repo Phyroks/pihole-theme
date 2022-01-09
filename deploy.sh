@@ -7,6 +7,7 @@ sleep 5
 echo updating themeswitcher!
 
 cd /var/www/html/admin/scripts/pi-hole/php
+rm theme.php
 curl https://raw.githubusercontent.com/Phyroks/pihole-theme/main/theme.php > theme.php
 
 sleep 5
