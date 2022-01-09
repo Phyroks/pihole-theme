@@ -54,28 +54,9 @@
   background-color: #5865f2 !important;
 }
 
-.nav-tabs-custom > .tab-content {
-    background-color: rgb(28 28 28) !important;
+.bg-aqua, .callout.callout-info, .alert-info, .label-info, .modal-info .modal-body {
+  background-color: #5865f2 !important;
 }
-
-.box-footer {
-    background-color: rgb(24 24 24) !important;
-}
-
-.btn-primary {
-    color: rgb(232, 230, 227) !important;
-    background-color: rgb(88 101 242) !important;
-    border-color: rgb(88 101 242) !important;
-}
-
-.main-footer {
-    background-color: rgb(24 24 24) !important;
-}
-
-.nav-tabs-custom > .nav-tabs > li.active {
-    border-top-color: rgb(88 101 242) !important;
-}
-
 
 
 /* Pi-hole: A black hole for Internet advertisements
